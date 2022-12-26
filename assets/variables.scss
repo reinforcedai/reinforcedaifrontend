@@ -1,0 +1,22 @@
+// Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+//
+// The variables you want to modify
+// $font-size-root: 20px;
+$body-font-family: roboto;
+// $heading-font-family : IntegralCF-Bold;
+$headings: (
+    h1: ( size: 5rem, weight: 900, line-height: 65px, letter-spacing: 1px ),
+    // h2: ( size: 3rem, weight: 500, line-height: 1.35, letter-spacing: -.02em, font-family: $heading-font-family ),
+    // h3: ( size: 2rem, weight: 400, line-height: 1, letter-spacing: normal, font-family: $heading-font-family ),
+    // h4: ( size: 1.9rem, weight: 400, line-height: 1, letter-spacing: normal, font-family: $heading-font-family ),
+    // h5: ( size: 1.5rem, weight: 400, line-height: 1, letter-spacing: normal, font-family: $heading-font-family ),
+    // h6: ( size: 1.2rem, weight: 400, line-height: 1, letter-spacing: .02em, font-family: $heading-font-family ),
+    // subheading: ( size: 16px, weight: 400 ),
+    // body-2: ( size: 14px, weight: 500 ),
+    // body-1: ( size: 14px, weight: 400 ),
+    // caption: ( size: 12px, weight: 400 ),
+    // button: ( size: 14px, weight: 500 )
+);
+$btn-font-weight: 800;
+// $btn-outline-border-width: 3px;
+$btn-rounded-border-radius: none;
