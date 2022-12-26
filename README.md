@@ -1,4 +1,4 @@
-# frontend
+# Reinforced AI Frontend
 
 ## Build Setup
 
