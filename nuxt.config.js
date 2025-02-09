@@ -84,7 +84,7 @@ export default {
   },
 
   sitemap: {
-    hostname: 'https://reinforcedai.com' || 'http://localhost:3000/',
+    hostname: 'https://reinforcedai.com/' || 'http://localhost:3000/',
     gzip: true,
     exclude: [
       '/secret',
